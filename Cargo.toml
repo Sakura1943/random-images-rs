@@ -1,0 +1,14 @@
+[package]
+name = "random_images"
+version = "1.0.1"
+edition = "2021"
+authors = ["sakunia"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+rocket = "0.4.11"
+rocket_codegen = "0.4.11"
+serde = "1.0.143"
+serde_derive = "1.0.143"
+toml = "0.5.9"
