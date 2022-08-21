@@ -1,10 +1,10 @@
-# RandomImages_Rust #
+# Random Images Rust #
 
 ## 📔 Prepare
 > Folder: `{project folder}/image`
 ```shell
-git clone https://github.com/Sakura1943/RandomImages_Rust
-cd RandomImages_Rust
+git clone https://github.com/Sakura1943/random-images-rust.git
+cd random-images-rust
 mkdir ./images
 ```
 
@@ -13,7 +13,7 @@ mkdir ./images
 ## 🏃 Running
 ### 1) 📔 Method One
 ```shell
-wget https://github.com/Sakura1943/RandomImages_Rust/releases/download/Packages/random_images.tar.gz
+wget https://github.com/Sakura1943/random-images-rust/releases/download/Packages/random_images.tar.gz
 mkdir ./random_images
 tar -zxvf ./random_images.tar.gz -C ./random_images
 cd ./random_images
